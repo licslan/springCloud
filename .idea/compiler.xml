@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hwl-eurekaclient" />
+        <module name="hwl-eurekaserver" />
+        <module name="hwl-licslan-client1" />
+        <module name="hwl-licslan-client2" />
+        <module name="hwl-licslan-client3" />
+        <module name="hwl-licslan-service1" />
+        <module name="hwl-licslan-service2" />
+        <module name="hwl-licslan-service3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hwl-eurekaclient" target="1.8" />
+      <module name="hwl-eurekaserver" target="1.8" />
+      <module name="hwl-licslan-client1" target="1.8" />
+      <module name="hwl-licslan-client2" target="1.8" />
+      <module name="hwl-licslan-client3" target="1.8" />
+      <module name="hwl-licslan-service1" target="1.8" />
+      <module name="hwl-licslan-service2" target="1.8" />
+      <module name="hwl-licslan-service3" target="1.8" />
+      <module name="hwl.licslanclient2" target="1.8" />
+      <module name="springstudy" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

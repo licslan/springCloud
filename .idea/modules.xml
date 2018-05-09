@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hwl-eurekaclient/hwl-eurekaclient.iml" filepath="$PROJECT_DIR$/hwl-eurekaclient/hwl-eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwl-eurekaserver/hwl-eurekaserver.iml" filepath="$PROJECT_DIR$/hwl-eurekaserver/hwl-eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwl-licslan-client1/hwl-licslan-client1.iml" filepath="$PROJECT_DIR$/hwl-licslan-client1/hwl-licslan-client1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwl-licslan-client2/hwl-licslan-client2.iml" filepath="$PROJECT_DIR$/hwl-licslan-client2/hwl-licslan-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwl-licslan-client3/hwl-licslan-client3.iml" filepath="$PROJECT_DIR$/hwl-licslan-client3/hwl-licslan-client3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwl-licslan-service1/hwl-licslan-service1.iml" filepath="$PROJECT_DIR$/hwl-licslan-service1/hwl-licslan-service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwl-licslan-service2/hwl-licslan-service2.iml" filepath="$PROJECT_DIR$/hwl-licslan-service2/hwl-licslan-service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwl-licslan-service3/hwl-licslan-service3.iml" filepath="$PROJECT_DIR$/hwl-licslan-service3/hwl-licslan-service3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springstudy.iml" filepath="$PROJECT_DIR$/springstudy.iml" />
+    </modules>
+  </component>
+</project>
