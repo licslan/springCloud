@@ -25,7 +25,16 @@
         <module>hwl-licslan-client1</module>
         <module>hwl-licslan-client2</module>
         <module>hwl-licslan-client3</module>
+        <module>hwl-configuration-service</module>
+        <module>hwl-configuration-client</module>
+        <module>hwl-loadbalancing-user</module>
+        <module>hwl-loadbalancing-sayhello</module>
+        <module>hwl-routingfiltering-book</module>
+        <module>hwl-routingfiltering-gateway</module>
+        <module>hwl-circuitbreaker-bookstore</module>
+        <module>hwl-circuitbreaker-reading</module>
     </modules>
+
 
 
 </project>
